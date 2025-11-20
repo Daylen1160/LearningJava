@@ -1,1 +1,1 @@
-Hi I'm trying to learn stuff
+Basic application with JavaFX used with the SpringBoot framework and Gradle build tool
